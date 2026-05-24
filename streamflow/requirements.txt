@@ -1,0 +1,11 @@
+kafka-python
+websocket-client
+sqlalchemy
+psycopg2-binary
+pandas
+streamlit
+plotly
+streamlit-autorefresh
+requests
+apache-airflow
+apache-airflow-providers-postgres

@@ -1,0 +1,5 @@
+# Ignore all Airflow-generated log files and folders
+# but keep this .gitignore and README.md tracked by Git
+*
+!.gitignore
+!README.md

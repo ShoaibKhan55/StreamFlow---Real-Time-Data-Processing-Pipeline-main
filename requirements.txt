@@ -1,0 +1,26 @@
+# StreamFlow - Python Dependencies
+
+# Kafka
+kafka-python>=2.0.2
+
+# WebSocket (Binance feed)
+websocket-client>=1.6.0
+
+# Database
+sqlalchemy>=2.0.20
+psycopg2-binary>=2.9.9
+
+# Data processing
+pandas>=2.0.0
+
+# Dashboard
+streamlit>=1.28.0
+plotly>=5.18.0
+streamlit-autorefresh>=1.0.1
+
+# HTTP
+requests>=2.31.0
+
+# Apache Airflow (core + PostgreSQL provider)
+apache-airflow>=2.9.1
+apache-airflow-providers-postgres>=5.10.0
